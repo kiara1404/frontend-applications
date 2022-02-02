@@ -1,8 +1,9 @@
 # frontend-applications 💻
 Repository for the third and final course of the Tech-Track from Information Design.
 
-Check voor meer informatie de repository van [CMD Tech Track](https://github.com/cmda-tt/course-21-22)
+Check voor meer informatie de repository van [CMD Tech Track](https://github.com/cmda-tt/course-21-22)    
 
+![](https://github.com/kiara1404/frontend-applications/blob/main/screencap-fa.gif)
 
 # **Installatie** ⚙️
 > Belangrijk om te weten, deze applicatie is gemaakt met React 
