@@ -5,37 +5,10 @@
  
 }
 
-.wrapper {
-  width: 100vw;
-  height: 100vh;
-  display: block;
-  margin: 0 auto;
-  background-color: #0ea5e6;
-}
-.LandingsPage {
-  background-color: #0ea5e6;
-  height: 5em;
-  width: 80vw;
-  display: block;
-  margin: 0 auto;
-}
-
-.LandingsPage h1 {
-  color: #fff;
-  font-family: 'Libre Baskerville', serif;
-  font-weight: 700;
-  font-size: 4.5em;
-  padding: 200px 0px 40px 0;
-}
-
-.content {
+.app {
   width: 70vw;
   display: block;
   margin: 0 auto;
+  height: 100vh;
 }
 
-.intro {
-  display: block;
-  width: 80vw;
-  height: 300px;
-}

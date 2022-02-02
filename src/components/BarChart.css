@@ -1,0 +1,30 @@
+.toolTip {
+  position:absolute;
+  display: none;
+  min-width: 180px;
+  width: auto;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  padding: 10px;
+  text-align: center;
+}
+
+.barChart {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 50px;
+}
+.group{
+    font-size: 1em;
+    margin: 20px 0 0 80px;
+}
+
+.group input{
+    margin-left: 40px;
+}

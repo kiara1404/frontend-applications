@@ -12,6 +12,7 @@ import {
     countedValues,
     mergeData
 } from './transform';
+import './BarChart.css'
 
 function BarChart() {
     const d3Chart = useRef()
@@ -161,7 +162,7 @@ function BarChart() {
 
 
     return (
-        <div>
+        <div className='barChart'>
             <h1>De verschillende betaalmethodes voor parkeren in Nederland</h1>
             <div className="group">
                 <input type="radio" id="dataNed" name="data" value="nederland" defaultChecked />
