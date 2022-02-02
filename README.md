@@ -5,16 +5,17 @@ Check voor meer informatie de repository van [CMD Tech Track](https://github.com
 
 
 # **Installatie** ⚙️
-> Belangrijk om te weten, deze applicatie is gemaakt met React
+> Belangrijk om te weten, deze applicatie is gemaakt met React 
+
 Open je terminal en clone de link van mijn repo:
 ```
 https://github.com/kiara1404/frontend-applications
 ```
-
+Installeer alle dependencies
 ```
 npm install
 ```
-
+Om de applicatie te starten
 ```
 npm start
 ```
